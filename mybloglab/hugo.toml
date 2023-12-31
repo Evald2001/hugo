@@ -1,0 +1,5 @@
+baseURL = 'Evald2001.github.io/'
+languageCode = 'en-us'
+title = 'labaratorinis'
+theme = 'blowfish'
+
