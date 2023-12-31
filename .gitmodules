@@ -1,0 +1,4 @@
+[submodule "mybloglab/public"]
+	path = mybloglab/public
+	url = https://github.com/Evald2001/Evald2001.github.io.git
+	branch = main
